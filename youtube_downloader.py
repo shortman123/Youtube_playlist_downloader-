@@ -36,7 +36,7 @@ def display_banner():
  | |_) || |_| | | |_) || |_| | | |_) || |_| | | |_| |
  |  __/ |  _  | |  __/ |  _  | |  __/ |  _  | |  _  |
  |_|    |_| |_| |_|    |_| |_| |_|    |_| |_| |_| |_|
-{Style.RESET_ALL}"
+{Style.RESET_ALL}"""
     print(banner)
     print(Fore.CYAN + Style.BRIGHT + "Welcome to the Easy YouTube Downloader!" + Style.RESET_ALL)
     print(Fore.YELLOW + "Paste your YouTube video or playlist link below." + Style.RESET_ALL)
